@@ -8,7 +8,7 @@
 
 ## Descrição
 Essa API foi criada como desafio de um lab durante um bootcamp da **[DIO](https://web.dio.me)** com parceria da Vivo, [Python AI Backend Developer](https://web.dio.me/track/coding-future-vivo-python-ai-backend-developer).
-O desafio consiste na criação de uma poderosa API assíncrona, além da implementação do TDD em uma aplicação utilizando FastAPI juntamente com Pytest. Criando uma API utilizando o banco de dados MongoDB e realizando testes unitários e de integração
+O desafio consiste na criação de uma API assíncrona, além da implementação do TDD em uma aplicação utilizando FastAPI juntamente com Pytest. Criando uma API utilizando o banco de dados MongoDB e realizando testes unitários e de integração.
 
 ## O que é TDD?
 TDD é uma sigla para `Test Driven Development`, ou Desenvolvimento Orientado a Testes. A ideia do TDD é que você trabalhe em ciclos.
